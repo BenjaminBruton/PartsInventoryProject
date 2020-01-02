@@ -1,0 +1,27 @@
+C:\Users\New\OneDrive\School Work\Software I - C#\C968 - BFM1 - BBruton Inventory Project\C968 - BFM1 - BBruton Inventory Project\bin\Debug\C968 - BFM1 - BBruton Inventory Project.exe.config
+C:\Users\New\OneDrive\School Work\Software I - C#\C968 - BFM1 - BBruton Inventory Project\C968 - BFM1 - BBruton Inventory Project\bin\Debug\C968 - BFM1 - BBruton Inventory Project.exe
+C:\Users\New\OneDrive\School Work\Software I - C#\C968 - BFM1 - BBruton Inventory Project\C968 - BFM1 - BBruton Inventory Project\bin\Debug\C968 - BFM1 - BBruton Inventory Project.pdb
+C:\Users\New\OneDrive\School Work\Software I - C#\C968 - BFM1 - BBruton Inventory Project\C968 - BFM1 - BBruton Inventory Project\obj\Debug\C968 - BFM1 - BBruton Inventory Project.csprojAssemblyReference.cache
+C:\Users\New\OneDrive\School Work\Software I - C#\C968 - BFM1 - BBruton Inventory Project\C968 - BFM1 - BBruton Inventory Project\obj\Debug\C968___BFM1___BBruton_Inventory_Project.MainScreen.resources
+C:\Users\New\OneDrive\School Work\Software I - C#\C968 - BFM1 - BBruton Inventory Project\C968 - BFM1 - BBruton Inventory Project\obj\Debug\C968___BFM1___BBruton_Inventory_Project.Properties.Resources.resources
+C:\Users\New\OneDrive\School Work\Software I - C#\C968 - BFM1 - BBruton Inventory Project\C968 - BFM1 - BBruton Inventory Project\obj\Debug\C968 - BFM1 - BBruton Inventory Project.csproj.GenerateResource.cache
+C:\Users\New\OneDrive\School Work\Software I - C#\C968 - BFM1 - BBruton Inventory Project\C968 - BFM1 - BBruton Inventory Project\obj\Debug\C968 - BFM1 - BBruton Inventory Project.csproj.CoreCompileInputs.cache
+C:\Users\New\OneDrive\School Work\Software I - C#\C968 - BFM1 - BBruton Inventory Project\C968 - BFM1 - BBruton Inventory Project\obj\Debug\C968 - BFM1 - BBruton Inventory Project.exe
+C:\Users\New\OneDrive\School Work\Software I - C#\C968 - BFM1 - BBruton Inventory Project\C968 - BFM1 - BBruton Inventory Project\obj\Debug\C968 - BFM1 - BBruton Inventory Project.pdb
+C:\Users\New\OneDrive\School Work\Software I - C#\C968 - BFM1 - BBruton Inventory Project\C968 - BFM1 - BBruton Inventory Project\obj\Debug\C968___BFM1___BBruton_Inventory_Project.AddPart.resources
+C:\Users\New\OneDrive\School Work\Software I - C#\C968 - BFM1 - BBruton Inventory Project\C968 - BFM1 - BBruton Inventory Project\obj\Debug\C968___BFM1___BBruton_Inventory_Project.AddProduct.resources
+C:\Users\New\OneDrive\School Work\Software I - C#\C968 - BFM1 - BBruton Inventory Project\C968 - BFM1 - BBruton Inventory Project\obj\Debug\C968___BFM1___BBruton_Inventory_Project.ModifyPart.resources
+C:\Users\New\OneDrive\School Work\Software I - C#\C968 - BFM1 - BBruton Inventory Project\C968 - BFM1 - BBruton Inventory Project\obj\Debug\C968___BFM1___BBruton_Inventory_Project.ModifyProduct.resources
+C:\Users\benth\OneDrive\School Work\Software I - C#\C968 - BFM1 - BBruton Inventory Project\C968 - BFM1 - BBruton Inventory Project\obj\Debug\C968 - BFM1 - BBruton Inventory Project.csprojAssemblyReference.cache
+C:\Users\benth\OneDrive\School Work\Software I - C#\C968 - BFM1 - BBruton Inventory Project\C968 - BFM1 - BBruton Inventory Project\obj\Debug\C968___BFM1___BBruton_Inventory_Project.AddPart.resources
+C:\Users\benth\OneDrive\School Work\Software I - C#\C968 - BFM1 - BBruton Inventory Project\C968 - BFM1 - BBruton Inventory Project\obj\Debug\C968___BFM1___BBruton_Inventory_Project.AddProduct.resources
+C:\Users\benth\OneDrive\School Work\Software I - C#\C968 - BFM1 - BBruton Inventory Project\C968 - BFM1 - BBruton Inventory Project\obj\Debug\C968___BFM1___BBruton_Inventory_Project.MainScreen.resources
+C:\Users\benth\OneDrive\School Work\Software I - C#\C968 - BFM1 - BBruton Inventory Project\C968 - BFM1 - BBruton Inventory Project\obj\Debug\C968___BFM1___BBruton_Inventory_Project.ModifyPart.resources
+C:\Users\benth\OneDrive\School Work\Software I - C#\C968 - BFM1 - BBruton Inventory Project\C968 - BFM1 - BBruton Inventory Project\obj\Debug\C968___BFM1___BBruton_Inventory_Project.ModifyProduct.resources
+C:\Users\benth\OneDrive\School Work\Software I - C#\C968 - BFM1 - BBruton Inventory Project\C968 - BFM1 - BBruton Inventory Project\obj\Debug\C968___BFM1___BBruton_Inventory_Project.Properties.Resources.resources
+C:\Users\benth\OneDrive\School Work\Software I - C#\C968 - BFM1 - BBruton Inventory Project\C968 - BFM1 - BBruton Inventory Project\obj\Debug\C968 - BFM1 - BBruton Inventory Project.csproj.GenerateResource.cache
+C:\Users\benth\OneDrive\School Work\Software I - C#\C968 - BFM1 - BBruton Inventory Project\C968 - BFM1 - BBruton Inventory Project\obj\Debug\C968 - BFM1 - BBruton Inventory Project.exe
+C:\Users\benth\OneDrive\School Work\Software I - C#\C968 - BFM1 - BBruton Inventory Project\C968 - BFM1 - BBruton Inventory Project\obj\Debug\C968 - BFM1 - BBruton Inventory Project.pdb
+C:\Users\benth\OneDrive\School Work\Software I - C#\C968 - BFM1 - BBruton Inventory Project\C968 - BFM1 - BBruton Inventory Project\bin\Debug\C968 - BFM1 - BBruton Inventory Project.exe.config
+C:\Users\benth\OneDrive\School Work\Software I - C#\C968 - BFM1 - BBruton Inventory Project\C968 - BFM1 - BBruton Inventory Project\bin\Debug\C968 - BFM1 - BBruton Inventory Project.exe
+C:\Users\benth\OneDrive\School Work\Software I - C#\C968 - BFM1 - BBruton Inventory Project\C968 - BFM1 - BBruton Inventory Project\bin\Debug\C968 - BFM1 - BBruton Inventory Project.pdb
